@@ -117,7 +117,7 @@ A heartfelt thank you to Shradha Khapra didi and AMAN DHATTARWAL bhaiya at #Apna
 
 ## Author
 
-Akash Deep \
+Arjun Chavhan \
 Email: contact.arjunchavhan024@gmail.com \
 LinkedIn : https://www.linkedin.com/in/arjunchavhan024/
 
