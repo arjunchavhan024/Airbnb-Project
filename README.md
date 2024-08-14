@@ -2,6 +2,13 @@
 
 
 ---
+<p align="center">
+  <b style="color: blue;  ">Visitor count</b>
+  <br>
+  <a style="" href="https://github.com/arjunchavhan024">
+  <img src="https://profile-counter.glitch.me/arjunchavhan024/count.svg" />
+  </a>
+</p>
 
 ## Table of Contents
 
